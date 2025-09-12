@@ -10,7 +10,10 @@ public class FloatDoubleExample {
 
         double var3 = 3e6;
         float var4 = 3e6f;
-
+        double var5 = 2e-3;
+        System.out.println("var3 : "+var3);
+        System.out.println("var4 : "+var4);
+        System.out.println("var5 : "+var5);
     }
 
 }
