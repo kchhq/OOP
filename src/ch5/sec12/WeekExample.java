@@ -1,4 +1,4 @@
-package ch5.sec12;
+/* package ch5.sec12;
 
 import java.util.Calendar;
 
@@ -40,4 +40,4 @@ public class WeekExample {
 
 
     }
-}
+} */
