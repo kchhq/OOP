@@ -1,4 +1,4 @@
-package ch6.sec11.exam01;
+/* package ch6.sec11.exam01;
 
 // 실행하면 final 필드의 값을 변경할 수 없어서 에러가 남
 
@@ -22,4 +22,4 @@ public class KoreanExample {
 
 
 
-}
+} */

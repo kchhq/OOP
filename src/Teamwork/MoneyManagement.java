@@ -1,4 +1,4 @@
-package Teamwork1;
+package Teamwork;
 
 import java.util.Scanner;
 
